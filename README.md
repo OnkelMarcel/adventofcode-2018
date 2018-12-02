@@ -1,9 +1,9 @@
 <div align="center">
     <h1>- Advent of code -</h1>
 </div>
-<div align="center" >
-    These are my solutions for [adventofcode](https://adventofcode.com/). I use this event to become better in python. I am still a beginnder in python so dont except good code.
-</div>
+
+These are my solutions for [adventofcode](https://adventofcode.com/). I use this event to become better in python. I am still a beginnder in python so dont except good code.
+
 
 
 <h1>Contributing</h1>
