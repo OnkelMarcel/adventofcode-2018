@@ -2,8 +2,7 @@
     <h1>- Advent of code -</h1>
 </div>
 
-These are some solutions for [adventofcode](https://adventofcode.com/). I use this event to become better in python. I am still a beginner in python so don't except good code.
-
+This is a collection of solutions for [adventofcode](https://adventofcode.com/). If you want to add a solution just see [here](#Contributing).
 
 
 <h1>Contributing</h1>
