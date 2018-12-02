@@ -49,7 +49,7 @@ function getNextLine() {
 }
 
 function readLines() {
-   let input = fs.readFileSync('input.txt');
+   let input = fs.readFileSync('../input.txt');
    lines = input.toString().split('\r\n');
 }
 
