@@ -2,7 +2,7 @@
     <h1>- Advent of code -</h1>
 </div>
 
-These are my solutions for [adventofcode](https://adventofcode.com/). I use this event to become better in python. I am still a beginnder in python so dont except good code.
+These are my solutions for [adventofcode](https://adventofcode.com/). I use this event to become better in python. I am still a beginner in python so don't except good code.
 
 
 
