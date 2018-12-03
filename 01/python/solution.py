@@ -1,4 +1,4 @@
-inputs = open('../input.txt').read().split('\n')
+inputs = open('../input.txt').read().strip().split('\n')
 
 # First
 print(f'Sum: {sum([int(i) for i in inputs])}')
