@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-inputs = open('input.txt').read().strip().split('\n')
+inputs = open('../input.txt').read().strip().split('\n')
 
 twice = 0
 three = 0
