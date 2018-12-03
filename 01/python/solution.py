@@ -1,7 +1,7 @@
 inputs = open('../input.txt').read().split('\n')
 
 # First
-print(sum([int(i) for i in inputs]))
+print(f'Sum: {sum([int(i) for i in inputs])}')
 
 # Second
 numbers = set()
@@ -10,7 +10,7 @@ while True:
     for i in inputs:
         index += int(i)
         if index in numbers:
-            print(index)
+            print(f'First duplicate: {index}')
             exit()
         else:
             numbers.add(index)

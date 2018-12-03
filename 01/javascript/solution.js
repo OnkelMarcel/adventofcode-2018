@@ -27,7 +27,7 @@ function partTwo() {
          currentIndex = 0;
    }
 
-   console.log('Part two solution: ' + solution);
+   console.log('First duplicate: ' + solution);
 }
 
 function partOne() {
@@ -41,7 +41,7 @@ function partOne() {
       index += number;
    }
 
-   console.log('Part one solution: ' + index);
+   console.log('Sum: ' + index);
 }
 
 function getNextLine() {
